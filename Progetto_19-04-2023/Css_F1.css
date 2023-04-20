@@ -22,3 +22,18 @@ fieldset{
 .cal{
     margin-top: 5px;
 }
+
+
+
+.body {
+    background-attachment: fixed;
+    background-image: url(Immagini/Home/sfondo.png);
+
+}
+
+.divorizzontale {
+    width: 450px;
+    height: 100x;
+    margin: 0 auto;
+}
+
